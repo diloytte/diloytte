@@ -6,7 +6,7 @@
 - 🔭 I'm currently apps that help in better managment of Telegram messages and automatic jobs related to extracting value from different groups and channels.
 - 🔧 My day job is to building plugins and application systems people use.
 - 🎓 I hold a Bachelor's degree in Computers and IT from the Faculty of Electronic Engineering.
-- ❤️ Generally, I'm passionate about **Microservices architecture, Web3 and Cryptocurrencies.**.
+- ❤️ Generally, I'm passionate about **Microservices architecture, Web3 and Cryptocurrencies.**
 - 📫 How to reach me: [mail@diloytte.com](mailto:mail@diloytte.com) or [diloytte@gmail.com](mailto:diloytte@gmail.com).
 - 🌱 Always locked in!
 - 💬 Ask me anything about personal development & motivation - I probably can help you.
